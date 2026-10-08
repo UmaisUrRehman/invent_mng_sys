@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "GPU"
+    },
+    {
+      "id": 2,
+      "name": "Processor"
+    },
+    {
+      "id": 3,
+      "name": "RAM"
+    },
+    {
+      "id": 4,
+      "name": "Case"
+    },
+    {
+      "id": 6,
+      "name": "Motherboard"
+    },
+    {
+      "id": 5,
+      "name": "Cooling fans"
+    },
+    {
+      "id": 7,
+      "name": "CPU cooler"
+    },
+    {
+      "id": 8,
+      "name": "SSD"
+    },
+    {
+      "id": 9,
+      "name": "HDD"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "gtx 960",
+      "price": 18000.0,
+      "quantity": 4,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "8GB ddr3",
+      "price": 1600.0,
+      "quantity": 20,
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "name": "Crucial 8GB DDR4",
+      "price": 16500.0,
+      "quantity": 8,
+      "categoryId": 3
+    }
+  ]
+}"id": 4,
+      "name": "Crucial 8GB DDR4",
+      "price": 16500.0,
+      "quantity": 8,
+      "categoryId": 3
+    }
+  ]
+}
